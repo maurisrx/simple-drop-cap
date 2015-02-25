@@ -37,7 +37,7 @@ if ( isset( $wpsdc_options['option_enable_all_posts'] ) && $wpsdc_options['optio
 
 	function wpsdc_filter_content( $content )
 	{
-		if ( preg_match( '#^([A-Z]|[a-z]|[0-9])(.*\n)*(\n)*.*#m', $content, $matches ) ) {			
+		if ( preg_match( '#^([A-Z]|[a-z]|[0-9])(.*\R)*(\R)*.*#', $content, $matches ) ) {			
 			$content = str_replace( '[dropcap]', '', $content );
 
 			$content = str_replace( '[/dropcap]', '', $content );				
