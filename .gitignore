@@ -7,4 +7,4 @@
 *.jpg
 *.sublime-project
 *.sublime-workspace
-/ignore/*.*
+ignore/
