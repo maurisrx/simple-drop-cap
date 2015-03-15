@@ -1,0 +1,10 @@
+*.TODO
+*.~
+*.log
+*.tmp
+*.zip
+*.png
+*.jpg
+*.sublime-project
+*.sublime-workspace
+/ignore/*.*

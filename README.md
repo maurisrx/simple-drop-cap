@@ -1,19 +1,20 @@
-=== Simple Drop Cap ===
-Contributors: maurisrx
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D2ZLXZ8VQKPE2
-Tags: post, page, shortcode, edit, text, widget
-Requires at least: 3.0
-Tested up to: 4.1.1
-Stable tag: 1.1.6
-License: GPLv2
+# Simple Drop Cap Pro
+
+* Contributors: maurisrx
+* Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D2ZLXZ8VQKPE2
+* Tags: post, page, shortcode, edit, text, widget
+* Requires at least: 3.0
+* Tested up to: 4.1.1
+* Stable tag: 1.1.6
+* License: GPLv2
 
 Transform the first letter of a post into a drop cap or initial letter automatically or simply by wrapping the first word with shortcode [dropcap].
 
-== Description ==
+### Description 
 
 This plugin helps you transform the first letter of a word into a drop cap or initial letter automatically or simply by wrapping the first word with shortcode [dropcap]. If you want to know more about drop cap, please read [this article](http://en.wikipedia.org/wiki/Initial) from Wikipedia.
 
-= Pro version is available now! =
+### Pro version is available now! 
 
 Here are some features in pro version:
 
@@ -27,94 +28,36 @@ Here are some features in pro version:
 
 [Click here](http://www.yudhistiramauris.com/products/simple-drop-cap-pro/) for pro version screenshots!
 
-= How to use this plugin: =
+### How to use this plugin:
 
 1. Install and activate the plugin.
 2. Customize the settings on Simple Drop Cap settings page.
 3. For version 1.1 and later, you can transform the first letter of all posts, pages, and custom post types automatically by checking a checkbox on the settings page.
 
-* If you want to do it manually: 
+If you want to do it manually: 
+
 1. For WP version 3.9 or higher, on post or page editing interface, select the word you want to transform into a drop cap.
 2. Click "Drop Cap" button which is located on tinymce editor tools.
 3. For WP version below 3.9, you can manually wrap a word with the shortcode like this: [dropcap]word[/dropcap].
 4. You can also use the dropcap shortcode on a widget.
 
-== Installation ==
+## Installation
 
-= How to install this plugin: =
+### How to install this plugin: 
 
 1. Upload 'simple-drop-cap' to the '/wp-content/plugins/' directory.
 2. Activate the plugin through the plugin dashboard.
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions
 
-= Can I automatically transform the first letter of all posts into a drop cap? =
+### Can I automatically transform the first letter of all posts into a drop cap? 
 
 Yes, you can. Enable drop cap automation option on Simple Drop Cap settings page.
 
-= How do I change the color of the drop cap? =
+### How do I change the color of the drop cap? 
 
 For version 1.1 and later, you can change the drop cap color using color picker on Simple Drop Cap settings page.
 
-= How do I change the style of the drop cap? =
+### How do I change the style of the drop cap? 
 
 For version 1.1 and later, you can change the style of the drop cap directly on Simple Drop Cap settings page using custom CSS.
-
-== Screenshots ==
-
-1. Float Mode
-2. Normal Mode
-3. Drop Cap on a Widget
-
-== Changelog ==
-
-= 1.0 =
-* First official release
-
-= 1.0.1 =
-* Add prefix to variables
-
-= 1.0.3 =
-* Fix widget support
-* Cleaner code
-
-= 1.0.4 =
-* Fix dropcap in post excerpt
-* Use custom wp_trim_excerpt() function
-
-= 1.0.5 =
-* Enable dropcap button on all post type
-
-= 1.0.6 =
-* Add multi byte character support
-
-= 1.1.0 =
-* Add custom color feature
-* Add custom CSS feature
-* Add drop cap automation feature for post, page, custom post type
-
-= 1.1.1 =
-* Fix issues with other plugins that insert HTML tags into the_content
-
-= 1.1.2 =
-* Fix minor bug
-
-= 1.1.3 =
-* Fix minor bug
-
-= 1.1.4 =
-* Fix minor bug
-
-= 1.1.5 =
-* Bug fix: Use preg_match() to match letter/number that will be dropcapped
-
-= 1.1.6 =
-* Fix: improved regex rule to match html closing tag too.
-
-== Upgrade Notice ==
-
-= 1.1.0 =
-* New features and improvement
-
-= 1.1.1 =
-* Bug fix
