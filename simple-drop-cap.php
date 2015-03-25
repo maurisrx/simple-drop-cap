@@ -37,6 +37,7 @@
  * INCLUDES
  ***********************/
 
+include ('includes/load-translation.php');
 include ('includes/register-shortcode.php');
 include ('includes/create-setting-menu-page.php');
 include ('includes/register-settings.php');
