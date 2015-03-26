@@ -28,10 +28,12 @@
  */
 
 /************************
- * GLOBAL VARIABLES
+ * GLOBAL CONSTANTS & VARIABLES
  ***********************/
 
-
+if ( ! defined( 'WPSDC_PLUGIN_FILE' ) ) {
+	define( 'WPSDC_PLUGIN_FILE', __FILE__ );
+}
 
 /************************
  * INCLUDES
