@@ -4,8 +4,8 @@
 * Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D2ZLXZ8VQKPE2
 * Tags: post, page, shortcode, edit, text, widget
 * Requires at least: 3.0
-* Tested up to: 4.1.1
-* Stable tag: 1.1.6
+* Tested up to: 4.3
+* Stable tag: 1.2.8
 * License: GPLv2
 
 Transform the first letter of a post into a drop cap or initial letter automatically or simply by wrapping the first word with shortcode [dropcap].
