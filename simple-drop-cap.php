@@ -41,6 +41,7 @@ if ( ! defined( 'WPSDC_PLUGIN_FILE' ) ) {
 
 include ('includes/load-translation.php');
 include ('includes/register-shortcode.php');
+include ('includes/register-tinymce-button.php');
 include ('includes/create-setting-menu-page.php');
 include ('includes/register-settings.php');
 include ('includes/scripts.php');
