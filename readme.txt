@@ -11,7 +11,7 @@ Transform the first letter of a post into a drop cap or initial letter automatic
 
 == Description ==
 
-On Friday August 28th 2015 at 00:00 UTC, Simple Drop Cap Pro’s price will increase. [Buy or upgrade your license now to get the lowest price!](https://www.yudhistiramauris.com/products/simple-drop-cap-pro/)
+[Buy now to get the lowest price!](http://www.wphouse.net/products/simple-drop-cap-pro/)
 
 This plugin helps you transform the first letter of a word into a drop cap or initial letter automatically or simply by wrapping the first word with shortcode [dropcap]. If you want to know more about drop cap, please read [this article](http://en.wikipedia.org/wiki/Initial) from Wikipedia.
 
@@ -25,9 +25,8 @@ Here are some features in pro version:
 * Unlimited styles of drop cap. You can have different styles for every drop cap.
 * Intuitive design panel lets you to style your drop cap without knowing CSS or any single code.
 * Dedicated support forum, better support priority than the free version.
-* One-time low price payment license, no yearly payment.
 
-[Click here](http://www.yudhistiramauris.com/products/simple-drop-cap-pro/) for pro version screenshots!
+[Click here](http://www.wphouse.net/products/simple-drop-cap-pro/) for pro version screenshots!
 
 = How to use this plugin: =
 
